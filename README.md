@@ -70,30 +70,30 @@ ClipCentauri is a powerful clipboard manager designed to help you store and acce
 
 ## File Structure
 
-  ClipCentauri/
-  ├── ClipBoardManagerWPF/
-  │ └── ClipboardManager/
-  │ ├── Database/
-  │ │ └── (Database-related files)
-  │ ├── Helpers/
-  │ │ └── (Helper functions and utilities)
-  │ ├── ViewModels/
-  │ │ └── (MVVM ViewModels)
-  │ ├── Views/
-  │ │ └── (XAML Views)
-  │ ├── bin/Debug/net7.0-windows/
-  │ ├── obj/
-  │ ├── App.xaml
-  │ ├── App.xaml.cs
-  │ ├── AssemblyInfo.cs
-  │ ├── ClipboardItem.cs
-  │ ├── ClipboardManager.csproj
-  │ ├── ClipboardService.cs
-  │ ├── MainWindow.xaml
-  │ ├── MainWindow.xaml.cs
-  │ └── tasks.json
-  ├── ClipboardManager.sln
-  ├── README.md
+    ClipCentauri/
+    ├── ClipBoardManagerWPF/
+    │ └── ClipboardManager/
+    │ ├── Database/
+    │ │ └── (Database-related files)
+    │ ├── Helpers/
+    │ │ └── (Helper functions and utilities)
+    │ ├── ViewModels/
+    │ │ └── (MVVM ViewModels)
+    │ ├── Views/
+    │ │ └── (XAML Views)
+    │ ├── bin/Debug/net7.0-windows/
+    │ ├── obj/
+    │ ├── App.xaml
+    │ ├── App.xaml.cs
+    │ ├── AssemblyInfo.cs
+    │ ├── ClipboardItem.cs
+    │ ├── ClipboardManager.csproj
+    │ ├── ClipboardService.cs
+    │ ├── MainWindow.xaml
+    │ ├── MainWindow.xaml.cs
+    │ └── tasks.json
+    ├── ClipboardManager.sln
+    ├── README.md
 
 
 - **ClipBoardManagerWPF/ClipboardManager**: Contains the source code for the clipboard manager application.
@@ -128,7 +128,7 @@ We welcome contributions to enhance ClipCentauri! If you have suggestions, bug r
    - Clone your forked repository to your local machine:
 
     ```sh
-    git clone https://github.com/your-username/ClipCentauri.git
+    git clone https://github.com/Sreechandh22/ClipCentauri.git
     ```
 
 3. **Create a Branch**
