@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj": {}
+    "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipCentauri\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj": {
+    "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipCentauri\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj",
+        "projectUniqueName": "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipCentauri\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj",
         "projectName": "ClipboardManager",
-        "projectPath": "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj",
+        "projectPath": "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipCentauri\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj",
         "packagesPath": "C:\\Users\\sreec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipBoardManagerWPF\\ClipboardManager\\obj\\",
+        "outputPath": "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipCentauri\\ClipBoardManagerWPF\\ClipboardManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sreec\\AppData\\Roaming\\NuGet\\NuGet.Config"
