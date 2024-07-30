@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vcQFOKUNmOw=",
+  "dgSpecHash": "2PunZ0Z0lWA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj",
+  "projectFilePath": "C:\\Users\\sreec\\OneDrive\\Desktop\\Clipboard\\ClipCentauri\\ClipBoardManagerWPF\\ClipboardManager\\ClipboardManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sreec\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\sreec\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
